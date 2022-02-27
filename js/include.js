@@ -1,3 +1,4 @@
 $(document).ready(function() {
-    $("#header").load('../assets/header.html');
+    $("#side-nav").load('../assets/side-nav.html');
+    $(".header").load("../assets/header.html");
 });
