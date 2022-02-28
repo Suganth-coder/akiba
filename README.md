@@ -15,5 +15,5 @@ Our solution is to create an interactive webpage that will help the user to find
 
 Our website provides collective information on various housing loans and mortgage based on the schemes of several authorized banks &#128180;. Our webpage acts as an intermediate between the user and the chit fund dealer providing both our clients a comfortable business platform&#128171;.<br><br>
 
-<img src="assets/img/readme/s2.png">
+<img src="assets/img/readme/s3.png">
 The main motive of our website is to ease the user’s burden. It helps them save their time and energy by retrieving their financial data as input and an estimate of the results are obtained within seconds.<br>
